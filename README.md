@@ -16,7 +16,7 @@ This project is a **Document Question Answering (Q&A) system** that leverages Go
 
 ## 📚 Tech Stack
 
-- **Python 3.8+**
+- **Python 3.12**
 - [LangChain](https://python.langchain.com/)
 - [Google Generative AI (Gemini)](https://ai.google.dev/)
 - [FAISS](https://github.com/facebookresearch/faiss)
@@ -29,7 +29,7 @@ This project is a **Document Question Answering (Q&A) system** that leverages Go
 
 ```mermaid
 flowchart TD
-    A[PDF Resume] --> B[PyPDFLoader]
+    A[PDF] --> B[PyPDFLoader]
     B --> C[CharacterTextSplitter]
     C --> D[Gemini Embeddings]
     D --> E[FAISS Vector Store]
