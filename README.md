@@ -6,7 +6,7 @@ This project is a **Document Question Answering (Q&A) system** that leverages Go
 
 ## 🚀 Features
 
-- **PDF Resume Parsing**: Reads and splits PDFs into manageable text chunks.
+- **PDF Parsing**: Reads and splits PDFs into manageable text chunks.
 - **Semantic Search**: Uses Gemini embeddings and FAISS vector store for efficient retrieval.
 - **LLM-Powered Q&A**: Answers user questions using Gemini-1.5-Pro, grounded in the uploaded document.
 - **Custom Prompt Engineering**: Ensures concise, context-aware, and honest answers.
