@@ -134,3 +134,6 @@ This project is for educational and demonstration purposes.
 **Tip:**  
 If you encounter errors about model names or API keys, double-check your `.env` file and ensure you are using the latest Gemini model as shown above.
 
+![Screenshot 2025-05-04 213551](https://github.com/user-attachments/assets/4c727930-6d8b-4bbb-a601-43bb500e8d81)
+
+![Screenshot 2025-05-04 213522](https://github.com/user-attachments/assets/4e04804b-92be-43a7-b0a0-25ee24391a63)
