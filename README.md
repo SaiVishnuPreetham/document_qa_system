@@ -97,6 +97,13 @@ Answer:
 
 ---
 
+## 💻 Output ScreenShots
+![Screenshot 2025-05-04 213522](https://github.com/user-attachments/assets/4e04804b-92be-43a7-b0a0-25ee24391a63)
+
+![Screenshot 2025-05-04 213551](https://github.com/user-attachments/assets/4c727930-6d8b-4bbb-a601-43bb500e8d81)
+
+---
+
 ## 🛠️ Customization
 
 - **Prompt Engineering**: Modify the `CUSTOM_PROMPT` in `main.py` to change answer style or constraints.
@@ -116,13 +123,6 @@ Answer:
 ## 📄 License
 
 This project is for educational and demonstration purposes.
-
----
-
-## 💻 Output ScreenShots
-![Screenshot 2025-05-04 213522](https://github.com/user-attachments/assets/4e04804b-92be-43a7-b0a0-25ee24391a63)
-
-![Screenshot 2025-05-04 213551](https://github.com/user-attachments/assets/4c727930-6d8b-4bbb-a601-43bb500e8d81)
 
 ---
 
